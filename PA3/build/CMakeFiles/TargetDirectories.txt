@@ -1,0 +1,3 @@
+/home/masonmenser/CPTS_223/PA3/build/CMakeFiles/run-executable.dir
+/home/masonmenser/CPTS_223/PA3/build/CMakeFiles/edit_cache.dir
+/home/masonmenser/CPTS_223/PA3/build/CMakeFiles/rebuild_cache.dir
